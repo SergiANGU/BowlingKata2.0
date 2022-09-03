@@ -4,7 +4,7 @@ public class Main {
         Game game = new Game();
         boolean exit = false;
         do {
-            System.out.println("");
+            System.out.println(" ");
         }while (!exit);
 
     }
